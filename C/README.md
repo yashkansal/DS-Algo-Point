@@ -6,5 +6,7 @@ Format:
 
 -[Find nth term in an A.P.](AP.c)
 
+-[Implement BubbleSort](bubblesort.c)
+
 -[Quick Sort](Quick_Sort.c)
 
